@@ -1,7 +1,6 @@
 import streamlit as st
 
 st.markdown("""
-# Ciao a tuttu!
 Il mirror al mio [what's new](https://my9oso6gqm.github.io/liste/whats-new.htm).
 """)
 
