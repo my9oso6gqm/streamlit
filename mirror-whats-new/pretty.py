@@ -126,25 +126,5 @@ st.markdown("""
 """)
 
 st.markdown("""
-01-01-2000 - Prova
-""")
-
-st.markdown("""
-01-01-2000 - Prova
-""")
-
-st.markdown("""
-01-01-2000 - Prova
-""")
-
-st.markdown("""
-01-01-2000 - Prova
-""")
-
-st.markdown("""
-01-01-2000 - Prova
-""")
-
-st.markdown("""
 12-12-1999 - Prova
 """)
