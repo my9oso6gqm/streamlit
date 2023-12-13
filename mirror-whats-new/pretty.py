@@ -18,7 +18,9 @@ i = \frac{V(t + 1) - V(t)}{V(t)}
 
 st.markdown("""
 ## Prova
-11-12-2023 12:00\\
+11-12-2023 12:00
+\\
+\\
 Lorem ipsum dolor sit amet.
 """)
 
