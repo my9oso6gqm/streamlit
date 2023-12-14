@@ -25,3 +25,10 @@ st.markdown("""
 Lorem ipsum dolor sit amet.
 """)
 
+st.markdown(r"""
+## Prova
+11-12-2023 12:00
+\\
+\\
+$$i = \frac{V(t + 1) - V(t)}{V(t)}$$
+""")
