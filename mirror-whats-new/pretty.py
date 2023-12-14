@@ -27,5 +27,8 @@ Lorem ipsum dolor sit amet.
 st.markdown(r"""
 ## Prova
 11-12-2023 12:00
-$$ i = \frac{V(t + 1) - V(t)}{V(t)} $$
+\begin{gather*}
+a_1=b_1+c_1\\
+a_2=b_2+c_2-d_2+e_2
+\end{gather*}
 """)
