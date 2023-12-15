@@ -1,10 +1,9 @@
 import streamlit as st
 
 st.markdown(r"""
-# Ciao
 Mirror al mio [what's new](https://my9oso6gqm.github.io/liste/whats-new.htm).
 
-## Alla ricerca della funzione perduta
+# Alla ricerca della funzione perduta
 15-12-2023 15:58  
   
 Stavo leggendo il Krugman di microeconomia per cercare una formula sulle curve d'indifferenza dei panieri (Ah, sapevate che paniere, sì quello che usa anche l'Istat, in inglese si traduce in bundle?):
@@ -13,7 +12,7 @@ $$
 $$
 Mi sono dovuto consultare un Pearson di microeconomia e calculus per trovarla, uffa.
 
-## Tasso d'interesse annuale effettivo
+# Tasso d'interesse annuale effettivo
 11-12-2023 16:43  
   
 Tasso d'interesse annuale effettivo da un investimento di 1 anno:
