@@ -6,6 +6,10 @@ Mirror al mio [Stream of consciousness](https://my9oso6gqm.github.io/liste/strea
 """)
 
 st.markdown(r"""
+Gayle - Ur just horny [https://youtube.com/watch?v=DWvuD31VG6Q](https://youtube.com/watch?v=DWvuD31VG6Q).
+""")
+
+st.markdown(r"""
 # Prima plottavo bitcoin mo Apple
 Vado a dormire. Ho tribulato un po' nella speranza di aprire e chiudere un ordine e invece la solita interrogazione delle varie chiusure. Però adesso del NYSE!!! 
 """)
