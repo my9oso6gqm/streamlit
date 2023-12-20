@@ -9,7 +9,9 @@ st.markdown(r"""
 # Borse europee ingessate, ma tiene banco risiko tlc
 La conferma che la battaglia contro l’inflazione stia dando i suoi frutti arriva stavolta dal Regno Unito, ma questo non è bastato ad accendere le Borse europee che chiudono fiacche la seduta, con la sola eccezione di Londra, che guadagna oltre l'1%.  
 
-Wall Street in rialzo dopo la pubblicazione di dati economici positivi. A dicembre,
+Wall Street in rialzo dopo la pubblicazione di dati economici positivi.  
+
+ilsole
 """)
 
 st.markdown(r"""
