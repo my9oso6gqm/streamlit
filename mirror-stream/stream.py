@@ -6,6 +6,11 @@ Mirror al mio [Stream of consciousness](https://my9oso6gqm.github.io/liste/strea
 """)
 
 st.markdown(r"""
+# Piazzare un buy o un sell in ibkr
+[https://ibkrcampus.com/trading-lessons/python-placing-orders/](https://ibkrcampus.com/trading-lessons/python-placing-orders/).
+""")
+
+st.markdown(r"""
 # Borse europee ingessate, ma tiene banco risiko tlc
 La conferma che la battaglia contro l’inflazione stia dando i suoi frutti arriva stavolta dal Regno Unito, ma questo non è bastato ad accendere le Borse europee che chiudono fiacche la seduta, con la sola eccezione di Londra, che guadagna oltre l'1%.  
 
