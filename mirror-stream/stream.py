@@ -1,13 +1,8 @@
-
 import streamlit as st
 
-col1, col2= st.columns(2)
+st.image()
 
-with col1:
-   st.image("https://static.streamlit.io/examples/cat.jpg", width=20)
-
-with col2:
-   st.markdown('''Ciao''')
+st.markdown('''Mathematical logic Number theory Mental calculation Giant equation systems List''')
 
 
 st.markdown(r"""
