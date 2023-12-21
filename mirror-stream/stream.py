@@ -10,18 +10,10 @@ st.markdown(r'''
 # Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattutto quale diamine di workaround devo inventarmi per far girare vscode in un docker??? Vabbe, vado a chiudere una posizione buy con python che avevo aperto dall'app di ibkr sul Nikkei.
 ''')
 
-st.write('#')
-st.write('#')
-st.write('#')
-
 st.markdown(r"""
 # Piazzare un buy o un sell in ibkr
 [https://ibkrcampus.com/trading-lessons/python-placing-orders/](https://ibkrcampus.com/trading-lessons/python-placing-orders/).
 """)
-
-st.write('#')
-st.write('#')
-st.write('#')
 
 st.markdown(r"""
 # Borse europee ingessate, ma tiene banco risiko tlc
@@ -32,18 +24,10 @@ Wall Street in rialzo dopo la pubblicazione di dati economici positivi.
 ilsole
 """)
 
-st.write('#')
-st.write('#')
-st.write('#')
-
 st.markdown(r"""
 # Gayle - Ur just horny 
 [https://youtube.com/watch?v=DWvuD31VG6Q](https://youtube.com/watch?v=DWvuD31VG6Q).
 """)
-
-st.write('#')
-st.write('#')
-st.write('#')
 
 st.markdown(r"""
 # Prima plottavo bitcoin mo Apple
@@ -56,10 +40,6 @@ st.markdown(r"""
 Dopo cerco di aprire e chiudere un ordine e fare un'analisi oltre la media mobile.  
 Yep, questo codice ha dei bei salti.
 """)
-
-st.write('#')
-st.write('#')
-st.write('#')
 
 st.markdown(r"""
 # Il gruppo hacker russo Lockbit ha rivendicato l’attacco ransomware che negli ultimi dieci giorni ha investito pubbliche amministrazioni in Italia che si avvalgono dei servizi di Westpole.
