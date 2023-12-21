@@ -4,7 +4,7 @@ st.markdown(r'''
 > Achille Lauro - Fragole
 # Aperta una posizione buy da python su ibkr, non si poteva chiudere quello che ho fatto da app dopo capite il perche'(1).
 
-'''python
+```python
 from ibapi.client import *
 from ibapi.wrapper import *
 
@@ -48,7 +48,7 @@ class TestApp(EClient, EWrapper):
 app = TestApp()
 app.connect("127.0.0.1", 7497, 100)
 app.run()
-'''
+```
 
 La cosa interessante è che appare anche sul tws:
 ''')
@@ -89,7 +89,7 @@ formula
 
 Beh, guardate come diventa in python puro lavorando formalmente, molto piu semplice!
 
-'''python
+```python
 a = [10,2,3,4,5]
 b = 0
 
@@ -97,11 +97,11 @@ for x in a:
     b = b + x
 
 y = b/5
-'''
+```python
 
 E qui una seconda analisi, questo è lo stocastico con il metodo Monte Carlo (Usando numpy e non a manina):
 
-'''python
+```python
 S0 = 100
 r = 0.05
 sigma = 0.25
@@ -109,7 +109,7 @@ T = 2.0
 I = 10000
 ST1 = S0 * np.exp((r - 0.5 * sigma ** 2) * T +
 sigma * math.sqrt(T) * npr.standard_normal(I))
-'''
+``````python
 
 Vado a dormire 6 ore. A dopo!
 ''')
