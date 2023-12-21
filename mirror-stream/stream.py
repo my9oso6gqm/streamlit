@@ -2,7 +2,7 @@ import streamlit as st
 
 st.image('https://my9oso6gqm.github.io/mrz.jpg', width=100)
 
-st.markdown('''Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi d'equazioni, errori nei libri di matematica, liste.''')
+st.markdown('''Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.''')
 
 st.markdown(r"""
 # Piazzare un buy o un sell in ibkr
