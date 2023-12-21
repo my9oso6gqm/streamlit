@@ -72,7 +72,7 @@ M = (x_1 + x_2 + x_3 + x_4 + x_5) / 5.
 
 O
 
-$ \frac{x_1 + x_2 + x_3 + x_4 + x_5}{5} $
+$$ \frac{x_1 + x_2 + x_3 + x_4 + x_5}{5} $$
 
 Che in python diventa:
 
@@ -97,7 +97,7 @@ for x in a:
     b = b + x
 
 y = b/5
-```python
+```
 
 E qui una seconda analisi, questo è lo stocastico con il metodo Monte Carlo (Usando numpy e non a manina):
 
