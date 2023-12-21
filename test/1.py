@@ -3,7 +3,7 @@ import streamlit as st
 st.markdown(r'''
 # Aperta una posizione buy da python su ibkr, non si poteva chiudere quello che ho fatto da app dopo capite il perche'(1).
 
-Ascoltando: [https://youtube.com/watch?v=fCj2p1Ugwdo](https://youtube.com/watch?v=fCj2p1Ugwdo)
+Ascoltando: [https://youtube.com/watch?v=fCj2p1Ugwdo](https://youtube.com/watch?v=fCj2p1Ugwdo).
 
 ```python
 from ibapi.client import *
