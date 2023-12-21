@@ -2,7 +2,7 @@ import streamlit as st
 
 #st.image()
 
-st.markdown('''Mathematical logic Number theory Mental calculation Giant equation systems List''')
+st.markdown('''Mathematical logic, number theory, mental calculation, giant systems of equations, list''')
 
 
 st.markdown(r"""
