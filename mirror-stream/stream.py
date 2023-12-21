@@ -8,13 +8,17 @@ st.markdown('''
 # Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattuto quale diamine di workaround devo inventarmi per far girare vscode in un docker???
 ''')
 
-#st.markdown('#')
+st.markdown('#')
+st.markdown('#')
+st.markdown('#')
 
 st.markdown(r"""
 # Piazzare un buy o un sell in ibkr
 [https://ibkrcampus.com/trading-lessons/python-placing-orders/](https://ibkrcampus.com/trading-lessons/python-placing-orders/).
 """)
 
+st.markdown('#')
+st.markdown('#')
 st.markdown('#')
 
 st.markdown(r"""
@@ -32,6 +36,8 @@ st.markdown(r"""
 """)
 
 st.markdown('#')
+st.markdown('#')
+st.markdown('#')
 
 st.markdown(r"""
 # Prima plottavo bitcoin mo Apple
@@ -45,6 +51,8 @@ Dopo cerco di aprire e chiudere un ordine e fare un'analisi oltre la media mobil
 Yep, questo codice ha dei bei salti.
 """)
 
+st.markdown('#')
+st.markdown('#')
 st.markdown('#')
 
 st.markdown(r"""
