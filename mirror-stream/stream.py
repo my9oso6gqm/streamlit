@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image()
+#st.image()
 
 st.markdown('''Mathematical logic Number theory Mental calculation Giant equation systems List''')
 
