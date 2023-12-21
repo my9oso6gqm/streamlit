@@ -1,5 +1,3 @@
-Funziona: 
-
 import streamlit as st
 
 st.image('https://my9oso6gqm.github.io/mrz.jpg', width=100)
