@@ -125,6 +125,10 @@ sigma * math.sqrt(T) * npr.standard_normal(I))
 Vado a dormire 6 ore. A dopo!
 ''')
 
+st.text('')
+st.text('')
+st.text('')
+
 st.markdown(r'''
 # Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattutto quale diamine di workaround devo inventarmi per far girare vscode in un docker??? Vabbe, vado a chiudere una posizione buy con python che avevo aperto dall'app di ibkr sul Nikkei.
 ''')
