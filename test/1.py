@@ -109,7 +109,7 @@ T = 2.0
 I = 10000
 ST1 = S0 * np.exp((r - 0.5 * sigma ** 2) * T +
 sigma * math.sqrt(T) * npr.standard_normal(I))
-``````python
+```
 
 Vado a dormire 6 ore. A dopo!
 ''')
