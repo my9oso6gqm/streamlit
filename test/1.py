@@ -76,10 +76,10 @@ $$ \frac{x_1 + x_2 + x_3 + x_4 + x_5}{5}
 
 Che in python diventa:
 
-'''python
+```python
 a = x_1 + x_2 + x_3 + x_4 + x_5
 b = a / 5
-'''
+```
 
 Esiste una comoda funzione per farlo con una riga ma preferisco fare le cose a manina quando ho tempo.
 
