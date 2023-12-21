@@ -1,12 +1,8 @@
 import streamlit as st
 
-st.image('https://my9oso6gqm.github.io/mrz.jpg', width=10)
+st.image('https://my9oso6gqm.github.io/mrz.jpg', width=50)
 
 st.markdown('''Mathematical logic, number theory, mental calculation, giant systems of equations, lists.''')
-
-st.markdown(r"""
-Mirror al mio [Stream of consciousness](https://my9oso6gqm.github.io/liste/stream.htm).
-""")
 
 st.markdown(r"""
 # Piazzare un buy o un sell in ibkr
