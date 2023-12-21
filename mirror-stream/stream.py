@@ -8,7 +8,7 @@ st.markdown('''
 # Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattuto quale diamine di workaround devo inventarmi per far girare vscode in un docker???
 ''')
 
-st.markdown('#')
+#st.markdown('#')
 
 st.markdown(r"""
 # Piazzare un buy o un sell in ibkr
