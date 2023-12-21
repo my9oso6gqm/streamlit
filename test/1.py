@@ -86,9 +86,11 @@ b = a / 5
 Esiste una comoda funzione per farlo con una riga ma preferisco fare le cose a manina quando ho tempo.
 
 Il modello lo possiamo formalizzare con una sommatoria. Ma perchè complicarci la vita in modo formale?
+''')
 
-formula
+st.latex(r'''\frac{1}{k}\sum_{i=n-k+1}^{n}p_{i}''')
 
+st.markdown(r'''
 Beh, guardate come diventa in python puro lavorando formalmente, molto piu semplice!
 
 ```python
