@@ -53,13 +53,13 @@ app.run()
 La cosa interessante è che appare anche sul tws:
 ''')
 
-st.image('https://my9oso6gqm.github.io/tmp/211220230954.png'
+st.image('https://my9oso6gqm.github.io/tmp/211220230954.png')
 
 st.markdown(r'''
 Che nell'app:
 ''')
          
-st.image('https://my9oso6gqm.github.io/tmp/211220230957.jpg'
+st.image('https://my9oso6gqm.github.io/tmp/211220230957.jpg')
 
 st.markdown(r'''
 Questo mi risparmia di mettere giù una dashboard per il controllo manuale in python. Tra l'altro ibkr mette prioritarie le operazioni da tws e app che le api, salva culo incorporated(1).
