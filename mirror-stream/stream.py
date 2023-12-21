@@ -5,7 +5,7 @@ st.image('https://my9oso6gqm.github.io/mrz.jpg', width=100)
 st.markdown('''Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.''')
 
 st.markdown('''
-# Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattuto quale diamine di workaround devo inventarmi per far girare vscode in un docker??? Vabbe, vado a chiudere una posizione buy con python che avevo aperto dall'app di ibkr sul Nikkei.
+# Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattutto quale diamine di workaround devo inventarmi per far girare vscode in un docker??? Vabbe, vado a chiudere una posizione buy con python che avevo aperto dall'app di ibkr sul Nikkei.
 ''')
 
 st.markdown('#')
