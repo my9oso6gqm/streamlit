@@ -71,9 +71,11 @@ Ora scarico i dati e faccio un modello di media mobile semplice con una finestra
 M = (x_1 + x_2 + x_3 + x_4 + x_5) / 5.
 
 O
+''')
 
-$$ \frac{x_1 + x_2 + x_3 + x_4 + x_5}{5} $$
+st.latex(\frac{x_1 + x_2 + x_3 + x_4 + x_5}{5})
 
+st.markdown(r'''
 Che in python diventa:
 
 ```python
