@@ -73,7 +73,7 @@ M = (x_1 + x_2 + x_3 + x_4 + x_5) / 5.
 O
 ''')
 
-st.latex('\frac{x_1 + x_2 + x_3 + x_4 + x_5}{5}')
+st.latex(r'''\frac{x_1 + x_2 + x_3 + x_4 + x_5}{5}''')
 
 st.markdown(r'''
 Che in python diventa:
