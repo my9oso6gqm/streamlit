@@ -14,8 +14,9 @@ st.text('')
 st.text('')
 
 
-html_string = "<h3>this is an html string</h3>"
-st.markdown(html_string, unsafe_allow_html=True)
+
+
+
 
 st.markdown(r'''
 Nuovo stop alla lunga serie positiva dei listini europei sulle prospettive di tagli ai tassi d’interesse da parte delle banche centrali già a partire dal 2024. 
@@ -205,6 +206,10 @@ st.text('')
 st.text('')
 st.text('')
 
+html_string = "<div id="test">"
+st.markdown(html_string, unsafe_allow_html=True)
+
+
 st.markdown(r"""
 Prima plottavo bitcoin mo Apple  
 Vado a dormire. Ho tribulato un po' nella speranza di aprire e chiudere un ordine e invece la solita interrogazione delle varie chiusure. Però adesso del NYSE!!! 
@@ -216,6 +221,9 @@ st.markdown(r"""
 Dopo cerco di aprire e chiudere un ordine e fare un'analisi oltre la media mobile.  
 Yep, questo codice ha dei bei salti.
 """)
+
+html_string1 = "</div">"
+st.markdown(html_string1, unsafe_allow_html=True)
 
 st.text('')
 st.text('')
