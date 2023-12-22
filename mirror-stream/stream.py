@@ -14,7 +14,9 @@ st.text('')
 st.text('')
 
 
-st.text(r'''<a href='test'>test</a>''')
+html_string = "<h3>this is an html string</h3>"
+st.markdown(html_string, unsafe_allow_html=True)
+
 st.markdown(r'''
 Nuovo stop alla lunga serie positiva dei listini europei sulle prospettive di tagli ai tassi d’interesse da parte delle banche centrali già a partire dal 2024. 
 Si muove rialzo a Wall Street, dopo che Dow Jones e Nasdaq Composite, ieri, hanno vissuto la peggiore giornata da ottobre, lo S&P 500 da settembre.  
