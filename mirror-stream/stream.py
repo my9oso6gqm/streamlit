@@ -206,7 +206,7 @@ st.text('')
 st.text('')
 st.text('')
 
-html_string = "<div id="test"></div">"
+html_string = "<div id="test"></div>"
 st.markdown(html_string, unsafe_allow_html=True)
 
 
@@ -221,9 +221,6 @@ st.markdown(r"""
 Dopo cerco di aprire e chiudere un ordine e fare un'analisi oltre la media mobile.  
 Yep, questo codice ha dei bei salti.
 """)
-
-html_string1 = "</div">"
-st.markdown(html_string1, unsafe_allow_html=True)
 
 st.text('')
 st.text('')
