@@ -8,8 +8,8 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 22:09 22-12-2023
-Chiudono deboli le Borse europee nell'ultima seduta prima della pausa natalizia, nonostante il dato sull'inflazione Pce negli Stati Uniti rafforzi l'ottimismo sulle prossime mosse di politica monetaria.
-''')
+Chiudono deboli le Borse europee nell'ultima seduta prima della pausa natalizia, nonostante il dato sull'inflazione Pce negli Stati Uniti rafforzi l'ottimismo sulle prossime mosse di politica monetaria.  
+ilsole''')
 
 
 
