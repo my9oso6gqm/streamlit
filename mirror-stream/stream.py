@@ -206,7 +206,7 @@ st.text('')
 st.text('')
 st.text('')
 
-html_string = "<div id="test"></div>"
+html_string = "<div></div>"
 st.markdown(html_string, unsafe_allow_html=True)
 
 
