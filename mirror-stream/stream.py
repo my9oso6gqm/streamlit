@@ -12,11 +12,15 @@ Si muove rialzo a Wall Street, dopo che Dow Jones e Nasdaq Composite, ieri, hann
 ilsole
 ''')
 
-###
+st.text('')
+st.text('')
+st.text('')
+st.text('')
+st.text('')
+st.text('')
 
 st.markdown(r'''
-# 21-12-2023 10:12
-Aperta una posizione buy da python su ibkr, non si poteva chiudere quello che ho fatto da app dopo capite il perche'(1).  
+Aperta una posizione buy da python su ibkr, non si poteva chiudere quello che ho fatto da app dopo capite il perchè(1).  
 
 Ascoltando: [https://youtube.com/watch?v=fCj2p1Ugwdo](https://youtube.com/watch?v=fCj2p1Ugwdo).
 
@@ -137,8 +141,9 @@ Vado a dormire 6 ore. A dopo!
 st.text('')
 st.text('')
 st.text('')
-
-###
+st.text('')
+st.text('')
+st.text('')
 
 st.markdown(r'''
 Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattutto quale diamine di workaround devo inventarmi per far girare vscode in un docker??? Vabbe, vado a chiudere una posizione buy con python che avevo aperto dall'app di ibkr sul Nikkei.
@@ -147,8 +152,9 @@ Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. 
 st.text('')
 st.text('')
 st.text('')
-
-###
+st.text('')
+st.text('')
+st.text('')
 
 st.markdown(r"""
 Piazzare un buy o un sell in ibkr [https://ibkrcampus.com/trading-lessons/python-placing-orders/](https://ibkrcampus.com/trading-lessons/python-placing-orders/).
@@ -157,8 +163,9 @@ Piazzare un buy o un sell in ibkr [https://ibkrcampus.com/trading-lessons/python
 st.text('')
 st.text('')
 st.text('')
-
-###
+st.text('')
+st.text('')
+st.text('')
 
 st.markdown(r"""
 Borse europee ingessate, ma tiene banco risiko tlc  
@@ -172,8 +179,9 @@ ilsole
 st.text('')
 st.text('')
 st.text('')
-
-###
+st.text('')
+st.text('')
+st.text('')
 
 st.markdown(r"""
 Gayle - Ur just horny [https://youtube.com/watch?v=DWvuD31VG6Q](https://youtube.com/watch?v=DWvuD31VG6Q).
@@ -182,8 +190,9 @@ Gayle - Ur just horny [https://youtube.com/watch?v=DWvuD31VG6Q](https://youtube.
 st.text('')
 st.text('')
 st.text('')
-
-###
+st.text('')
+st.text('')
+st.text('')
 
 st.markdown(r"""
 Prima plottavo bitcoin mo Apple  
@@ -200,8 +209,9 @@ Yep, questo codice ha dei bei salti.
 st.text('')
 st.text('')
 st.text('')
-
-###
+st.text('')
+st.text('')
+st.text('')
 
 st.markdown(r"""
 Il gruppo hacker russo Lockbit ha rivendicato l’attacco ransomware che negli ultimi dieci giorni ha investito pubbliche amministrazioni in Italia che si avvalgono dei servizi di Westpole.  
