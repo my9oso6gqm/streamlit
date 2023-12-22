@@ -133,36 +133,18 @@ sigma * math.sqrt(T) * npr.standard_normal(I))
 Vado a dormire 6 ore. A dopo!
 ''')
 
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-
 st.markdown(r'''
+### 07:39 21-12-2023
 Ma che noia che Instagram richieda l'uso dell'app per cambiare le impostazioni. Ma soprattutto quale diamine di workaround devo inventarmi per far girare vscode in un docker??? Vabbe, vado a chiudere una posizione buy con python che avevo aperto dall'app di ibkr sul Nikkei.
 ''')
 
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-
 st.markdown(r"""
+### 22:46 20-12-2023
 Piazzare un buy o un sell in ibkr [https://ibkrcampus.com/trading-lessons/python-placing-orders/](https://ibkrcampus.com/trading-lessons/python-placing-orders/).
 """)
 
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-
 st.markdown(r"""
+### 22:17 20-12-2023
 Borse europee ingessate, ma tiene banco risiko tlc  
 La conferma che la battaglia contro l’inflazione stia dando i suoi frutti arriva stavolta dal Regno Unito, ma questo non è bastato ad accendere le Borse europee che chiudono fiacche la seduta, con la sola eccezione di Londra, che guadagna oltre l'1%.  
 
@@ -171,30 +153,13 @@ Wall Street in rialzo dopo la pubblicazione di dati economici positivi.
 ilsole
 """)
 
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-
 st.markdown(r"""
+### 09:02 20-12-2023
 Gayle - Ur just horny [https://youtube.com/watch?v=DWvuD31VG6Q](https://youtube.com/watch?v=DWvuD31VG6Q).
 """)
 
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-
-html_string = "<div id='ciao'></div>"
-st.markdown(html_string, unsafe_allow_html=True)
-
-
 st.markdown(r"""
-Prima plottavo bitcoin mo Apple  
+### 08:52 20-12-2023
 Vado a dormire. Ho tribulato un po' nella speranza di aprire e chiudere un ordine e invece la solita interrogazione delle varie chiusure. Però adesso del NYSE!!! 
 """)
 
@@ -205,14 +170,8 @@ Dopo cerco di aprire e chiudere un ordine e fare un'analisi oltre la media mobil
 Yep, questo codice ha dei bei salti.
 """)
 
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-
 st.markdown(r"""
+### 06:53 20-12-2023
 Il gruppo hacker russo Lockbit ha rivendicato l’attacco ransomware che negli ultimi dieci giorni ha investito pubbliche amministrazioni in Italia che si avvalgono dei servizi di Westpole.  
 ilsole
 """)
