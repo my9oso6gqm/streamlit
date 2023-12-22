@@ -13,14 +13,8 @@ Si muove rialzo a Wall Street, dopo che Dow Jones e Nasdaq Composite, ieri, hann
 ilsole
 ''')
 
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-st.text('')
-
 st.markdown(r'''
+### 10:26 21-12-2023
 Aperta una posizione buy da python su ibkr, non si poteva chiudere quello che ho fatto da app dopo capite il perchè(1).  
 
 Ascoltando: [https://youtube.com/watch?v=fCj2p1Ugwdo](https://youtube.com/watch?v=fCj2p1Ugwdo).
