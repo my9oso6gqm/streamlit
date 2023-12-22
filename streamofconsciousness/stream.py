@@ -12,6 +12,7 @@ Chiudono deboli le Borse europee nell'ultima seduta prima della pausa natalizia,
 ''')
 
 
+
 st.markdown(r'''
 # 23:24 21-12-2023
 Nuovo stop alla lunga serie positiva dei listini europei sulle prospettive di tagli ai tassi d’interesse da parte delle banche centrali già a partire dal 2024. 
