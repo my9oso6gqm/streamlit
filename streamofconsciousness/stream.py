@@ -116,10 +116,10 @@ Per fare qualche previsione. Sta notte ho letto degli altri modi carini per impl
 
 E mettiamo tutto su un quaderno Google colab aggiungendo l'interrogazione di yh finance per chi non usa ib.
 
-Ah come si avvicina Babbo Natale secondo il NORAD:
+Ah! Come si avvicina Babbo Natale secondo il NORAD:
 ''')
 
-st.image('https://github.com/my9oso6gqm/streamlit/blob/main/streamofconsciousness/documenti/231220230729.jpg')
+st.image('https://raw.githubusercontent.com/my9oso6gqm/streamlit/main/streamofconsciousness/documenti/231220230729.jpg')
 
 
 st.markdown(r'''
