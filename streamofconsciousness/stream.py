@@ -121,11 +121,11 @@ Ah come si avvicina Babbo Natale secondo il NORAD:
 
 st.image('documenti/231220230729.jpg')
 
+
 st.markdown(r'''
 # 22:09 22-12-2023
 Chiudono deboli le Borse europee nell'ultima seduta prima della pausa natalizia, nonostante il dato sull'inflazione Pce negli Stati Uniti rafforzi l'ottimismo sulle prossime mosse di politica monetaria.  
 ilsole''')
-
 
 
 st.markdown(r'''
