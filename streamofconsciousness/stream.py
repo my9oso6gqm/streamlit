@@ -16,7 +16,7 @@ A parte che facebook stamane mi propina le pubblicità del National Reconnaissan
 Il task per le 9:
 ''')
 
-st.image('documenti/231220230711.jpg')
+st.image('https://github.com/my9oso6gqm/streamlit/blob/main/streamofconsciousness/documenti/231220230711.jpg')
 
 st.markdown(r'''
 È unire questo:
@@ -119,7 +119,7 @@ E mettiamo tutto su un quaderno Google colab aggiungendo l'interrogazione di yh 
 Ah come si avvicina Babbo Natale secondo il NORAD:
 ''')
 
-st.image('documenti/231220230729.jpg')
+st.image('https://github.com/my9oso6gqm/streamlit/blob/main/streamofconsciousness/documenti/231220230729.jpg')
 
 
 st.markdown(r'''
