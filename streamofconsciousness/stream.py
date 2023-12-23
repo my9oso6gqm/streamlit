@@ -16,7 +16,7 @@ A parte che facebook stamane mi propina le pubblicità del National Reconnaissan
 Il task per le 9:
 ''')
 
-st.image('https://github.com/my9oso6gqm/streamlit/blob/main/streamofconsciousness/documenti/231220230711.jpg')
+st.image('https://raw.githubusercontent.com/my9oso6gqm/streamlit/main/streamofconsciousness/documenti/231220230711.jpg')
 
 st.markdown(r'''
 È unire questo:
