@@ -104,7 +104,7 @@ app.connect("127.0.0.1", 7497, 100)
 app.run()
 ```
 
-Voi come fareste? In sostanza noi si tratta d'altro che trovare le parti simili e toglierle o da una o dall'altra parte, facendo qualche aggiustamento.
+Voi come fareste? In sostanza si tratta di trovare le parti simili o da una o dall'altra parte, per toglierle, facendo qualche aggiustamento.
 
 E poi mettere giù un modello tipo:
 ''')
