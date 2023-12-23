@@ -109,7 +109,7 @@ Voi come fareste? In sostanza noi si tratta d'altro che trovare le parti simili 
 E poi mettere giù un modello tipo:
 ''')
 
-st.latex(r'$\text{SMA} = \frac{P_1+P_2+P_n}{n}$')
+st.latex(r'\text{SMA} = \frac{P_1+P_2+P_n}{n}')
 
 st.markdown(r'''
 Per fare qualche previsione. Sta notte ho letto degli altri modi carini per implementarlo su dei libri (Doing math with python e il Python for finance).
