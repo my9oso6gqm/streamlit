@@ -9,7 +9,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 st.markdown(r'''
 # 07:34 23-12-2023
 
-Ascoltando: Galantis - Bang banng! (My neurodivergent anthem) [https://youtube.com/watch?v=CquFFychvTo](https://youtube.com/watch?v=CquFFychvTo).
+Ascoltando: Galantis - Bang bang! (My neurodivergent anthem) [https://youtube.com/watch?v=CquFFychvTo](https://youtube.com/watch?v=CquFFychvTo).
 
 A parte che facebook stamane mi propina le pubblicità del National Reconnaissance Office, quello che gestisce i satelliti spia per la CIA ma anche per l'NSA. Ma ppperchè?
 
@@ -57,7 +57,7 @@ Con questo:
 
 ```python
 
-# Codice per piazzare un ordine
+# Codice per piazzare un ordine su ib
 
 from ibapi.client import *
 from ibapi.wrapper import *
