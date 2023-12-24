@@ -34,7 +34,7 @@ Che riesce a catturare anche gli effetti del virus dettati dagli sbalzi termici.
 ### 04:01 24-12-2023
 
 
-###
+### 07:34 23-12-2023
 
 st.markdown(r'''
 # 07:34 23-12-2023
@@ -43,120 +43,23 @@ Ascoltando: Galantis - Bang bang! (My neurodivergent anthem) [https://youtube.co
 
 A parte che facebook stamane mi propina le pubblicità del National Reconnaissance Office, quello che gestisce i satelliti spia per la CIA ma anche per l'NSA. Ma ppperchè?
 
-Il task per le 9:
+Il task per le 9: https://my9oso6gqm.github.io/pdfjs/web/viewer.html?file=https://my9oso6gqm.github.io/tmp/231220230734%20.pdf.
 ''')
 
-st.image('https://raw.githubusercontent.com/my9oso6gqm/streamlit/main/streamofconsciousness/documenti/231220230711.jpg')
-
-st.markdown(r'''
-È unire questo:
-
-```python
-
-# Codice per interrogare ib
-
-from ibapi.client import *
-from ibapi.wrapper import *
-
-class IBapi(EWrapper, EClient):
-    def __init__(self):
-        EClient.__init__(self, self) 
-        self.data = []
-        
-    def nextValidId(self, orderId: int):
-        
-        mycontract = Contract()
-        mycontract.symbol = "AAPL"
-        mycontract.secType = "STK"
-        mycontract.exchange = "SMART"
-        mycontract.currency = "USD"        
-            
-   
-        self.reqHistoricalData(orderId, mycontract, '20231126 15:59:00 US/Eastern', '1 D', '1 hour', 'TRADES', 0, 1, 0, [])
-
-    def historicalData(self, reqId, bar):
-        self.data.append([bar.date, bar.close])
-        app.disconnect()
-
-app = IBapi()
-app.connect('127.0.0.1', 7497, 100)
-app.run()
-```
-
-Con questo:
-
-```python
-
-# Codice per piazzare un ordine su ib
-
-from ibapi.client import *
-from ibapi.wrapper import *
-
-class TestApp(EClient, EWrapper):
-  def __init__(self):
-    EClient.__init__(self, self)
-
-  def nextValidId(self, orderId: OrderId):
-
-    mycontract = Contract()
-    mycontract.symbol = "AAPL"
-    mycontract.secType = "STK"    
-    mycontract.exchange = "SMART"
-    mycontract.currency = "USD"
-
-    self.reqContractDetails(orderId, mycontract)
-
-  def contractDetails(self, reqId: int, contractDetails: ContractDetails):
-    print(contractDetails.contract)
-
-    myorder = Order()
-    myorder.orderId = reqId
-    myorder.action = "BUY"
-    myorder.tif = "GTC"
-    myorder.orderType = "LMT"
-    myorder.lmtPrice = 1440.80
-    myorder.totalQuantity = 1
-
-    self.placeOrder(myorder.orderId, contractDetails.contract, myorder)
+### 07:34 23-12-2023
 
 
-  def openOrder(self, orderId: OrderId, contract: Contract, order: Order, orderState: OrderState):
-    print(f"openOrder. orderId: {orderId}, contract: {contract}, order: {order}")
-
-  def orderStatus(self, orderId: OrderId, status: str, filled: Decimal, remaining: Decimal, avgFillPrice: float, permId: int, parentId: int, lastFillPrice: float, clientId: int, whyHeld: str, mktCapPrice: float):
-    print(f"orderId: {orderId}, status: {status}, filled: {filled}, remaining: {remaining}, avgFillPrice: {avgFillPrice}, permId: {permId}, parentId: {parentId}, lastFillPrice: {lastFillPrice}, clientId: {clientId}, whyHeld: {whyHeld}, mktCapPrice: {mktCapPrice}")
-
-  def execDetails(self, reqId: int, contract: Contract, execution: Execution):
-    print(f"reqId: {reqId}, contract: {contract}, execution: {execution}")
-
-app = TestApp()
-app.connect("127.0.0.1", 7497, 100)
-app.run()
-```
-
-Voi come fareste? In sostanza si tratta di trovare le parti simili o da una o dall'altra parte, per toglierle, facendo qualche aggiustamento.
-
-E poi mettere giù un modello tipo:
-''')
-
-st.latex(r'\text{SMA} = \frac{P_1+P_2+P_n}{n}')
-
-st.markdown(r'''
-Per fare qualche previsione. Sta notte ho letto degli altri modi carini per implementarlo su dei libri (Doing math with python e il Python for finance).
-
-E mettiamo tutto su un quaderno Google colab aggiungendo l'interrogazione di yh finance per chi non usa ib.
-
-Ah! Come si avvicina Babbo Natale secondo il NORAD:
-''')
-
-st.image('https://raw.githubusercontent.com/my9oso6gqm/streamlit/main/streamofconsciousness/documenti/231220230729.jpg')
-
+###
 
 st.markdown(r'''
 # 22:09 22-12-2023
 Chiudono deboli le Borse europee nell'ultima seduta prima della pausa natalizia, nonostante il dato sull'inflazione Pce negli Stati Uniti rafforzi l'ottimismo sulle prossime mosse di politica monetaria.  
 ilsole''')
 
+###
+
+
+###
 
 st.markdown(r'''
 # 23:24 21-12-2023
@@ -164,6 +67,11 @@ Nuovo stop alla lunga serie positiva dei listini europei sulle prospettive di ta
 Si muove rialzo a Wall Street, dopo che Dow Jones e Nasdaq Composite, ieri, hanno vissuto la peggiore giornata da ottobre, lo S&P 500 da settembre.  
 ilsole
 ''')
+
+###
+
+
+###
 
 st.markdown(r'''
 # 10:26 21-12-2023
