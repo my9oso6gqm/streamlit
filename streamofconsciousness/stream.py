@@ -14,7 +14,7 @@ st.markdown(r'''
 Il ritorno in finanza e' profitto di un investimento, una formula per calcolare il ritorno logaritmico e':
 
 $$
-$$R_{log} = \ln \frac{V_f}{V_i}
+R_{log} = \ln \frac{V_f}{V_i}
 $$
 
 Che puo' essere anche vista come un'equazione:
