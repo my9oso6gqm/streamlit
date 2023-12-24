@@ -7,6 +7,39 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
+
+### 04:01 24-12-2023
+
+st.markdown(r'''
+# 04:01 24-12-2023
+A Natale 1 milione di italiani ammalati, non vi imbottite di farmaci fino ad azzerare i sintomi e' il monito del virologo Fabrizio Pregliasco sul sole24ore.
+
+Aggiungendo che grandi sbalzi termici favoriscono alla grande questi virus.
+
+Il classico modello sir dal sito della Maa:
+''')
+
+st.latex(r'''
+\begin{equation}
+\frac{\textit{d}S}{\textit{dt}} = -b  s(t) i(t)
+\end{equation}
+
+\begin{equation}
+\frac{\textit{d}I}{\textit{dt}} = b s(t) i(t) - k i(t)
+\end{equation}
+
+\begin{equation}
+\frac{\textit{d}R}{\textit{dt}} = k o(t)
+\end{equation}
+''')
+
+st.markdown(r'''
+Che riesce a catturare anche gli effetti del virus dettati dagli sbalzi termici.
+''')
+
+### 04:01 24-12-2023
+
+
 st.markdown(r'''
 # 07:34 23-12-2023
 
