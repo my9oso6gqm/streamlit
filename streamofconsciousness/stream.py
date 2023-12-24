@@ -12,7 +12,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 04:19 24-12-2023
-A Natale 1 milione di italiani ammalati, non vi imbottite di farmaci fino ad azzerare i sintomi e' il monito del virologo Fabrizio Pregliasco sul sole24ore. Aggiungendo che grandi sbalzi termici favoriscono alla grande questi virus.
+A Natale 1 milione di italiani ammalati, non vi imbottite di farmaci fino ad azzerare i sintomi è il monito del virologo Fabrizio Pregliasco sul sole24ore. Aggiungendo che grandi sbalzi termici favoriscono alla grande questi virus.
 
 Il classico modello sir dal sito della Maa:
 ''')
