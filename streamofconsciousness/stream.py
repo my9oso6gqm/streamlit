@@ -11,7 +11,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 21:47 24-12-2023
-Il ritorno in finanza e' profitto di un investimento, una formula per calcolare il ritorno logaritmico e':
+Il ritorno in finanza e' il profitto di un investimento, una formula per calcolare il ritorno logaritmico e':
 
 $$
 R_{log} = \ln \frac{V_f}{V_i}
