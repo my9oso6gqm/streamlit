@@ -21,7 +21,7 @@ Il classico modello sir dal sito della Maa:
 
 st.latex(r'''
 \begin{align*}
-\frac{\textit{d}s}{\textit{dt}} = -b\ s(t)\ i(t) \\
+\frac{\textit{d}s}{\textit{dt}} = -b\ s(t)\ i(t)
 
 \frac{\textit{d}i}{\textit{dt}} = b\ s(t)\ i(t) - k\ i(t) \\
 
