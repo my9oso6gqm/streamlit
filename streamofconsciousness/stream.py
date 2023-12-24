@@ -39,10 +39,7 @@ Che riesce a catturare anche gli effetti del virus dettati dagli sbalzi termici.
 st.markdown(r'''
 # 07:34 23-12-2023
 
-Ascoltando: Galantis - Bang bang! (My neurodivergent anthem) [https://youtube.com/watch?v=CquFFychvTo](https://youtube.com/watch?v=CquFFychvTo).
-
-A parte che facebook stamane mi propina le pubblicità del National Reconnaissance Office, quello che gestisce i satelliti spia per la CIA ma anche per l'NSA. Ma ppperchè?
-
+Ascoltando: Galantis - Bang bang! (My neurodivergent anthem) [https://youtube.com/watch?v=CquFFychvTo](https://youtube.com/watch?v=CquFFychvTo).  
 Il task per le 9: https://my9oso6gqm.github.io/pdfjs/web/viewer.html?file=https://my9oso6gqm.github.io/tmp/231220230820.pdf.
 ''')
 
