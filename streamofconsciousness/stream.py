@@ -20,17 +20,12 @@ Il classico modello sir dal sito della Maa:
 ''')
 
 st.latex(r'''
-\begin{equation}
 \frac{\textit{d}S}{\textit{dt}} = -b  s(t) i(t)
-\end{equation}
 
-\begin{equation}
 \frac{\textit{d}I}{\textit{dt}} = b s(t) i(t) - k i(t)
-\end{equation}
 
-\begin{equation}
+
 \frac{\textit{d}R}{\textit{dt}} = k o(t)
-\end{equation}
 ''')
 
 st.markdown(r'''
