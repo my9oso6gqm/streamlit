@@ -7,10 +7,9 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
-###
+### 09:58 24-12-2023
 
 st.markdown(r'''
-
 # 09:58 24-12-2023
 
 ## Guerra Israele - Hamas
@@ -38,7 +37,7 @@ st.markdown(r'''
 lemonde
 ''')
 
-###
+### 09:58 24-12-2023
 
 
 ### 04:01 24-12-2023
