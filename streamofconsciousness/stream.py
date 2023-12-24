@@ -20,7 +20,7 @@ Il classico modello sir dal sito della Maa:
 ''')
 
 st.latex(r'''
-\frac{\textit{d}S}{\textit{dt}} = -b\! s(t) i(t) \\
+\frac{\textit{d}S}{\textit{dt}} = -b\ s(t) i(t) \\
 
 \frac{\textit{d}I}{\textit{dt}} = b s(t) i(t) - k i(t) \\
 
