@@ -46,28 +46,17 @@ Il task per le 9: https://my9oso6gqm.github.io/pdfjs/web/viewer.html?file=https:
 ### 07:34 23-12-2023
 
 
-###
+### 22:09 22-12-2023
 
 st.markdown(r'''
 # 22:09 22-12-2023
 Chiudono deboli le Borse europee nell'ultima seduta prima della pausa natalizia, nonostante il dato sull'inflazione Pce negli Stati Uniti rafforzi l'ottimismo sulle prossime mosse di politica monetaria.  
 ilsole''')
 
-###
+### 22:09 22-12-2023
 
 
-###
-
-st.markdown(r'''
-# 23:24 21-12-2023
-Nuovo stop alla lunga serie positiva dei listini europei sulle prospettive di tagli ai tassi d’interesse da parte delle banche centrali già a partire dal 2024. Si muove rialzo a Wall Street, dopo che Dow Jones e Nasdaq Composite, ieri, hanno vissuto la peggiore giornata da ottobre, lo S&P 500 da settembre.  
-ilsole
-''')
-
-###
-
-
-###
+### 10:26 21-12-2023
 
 st.markdown(r'''
 # 10:26 21-12-2023
@@ -75,16 +64,31 @@ Ascoltando: Achille Lauro - Fragole https://youtube.com/watch?v=fCj2p1Ugwdo.
 Aperta una posizione buy da python su ibkr, non si poteva chiudere quello che ho fatto da app dopo capite il perchè(1): https://my9oso6gqm.github.io/pdfjs/web/viewer.html?file=https://my9oso6gqm.github.io/tmp/211220231026.pdf.
 ''')
 
+### 10:26 21-12-2023
+
+
+### 22:46 20-12-2023
+
 st.markdown(r"""
 # 22:46 20-12-2023
 Piazzare un buy o un sell in ibkr: https://ibkrcampus.com/trading-lessons/python-placing-orders/.
 """)
+
+### 22:46 20-12-2023
+
+
+### 22:17 20-12-2023
 
 st.markdown(r"""
 # 22:17 20-12-2023
 La conferma che la battaglia contro l’inflazione stia dando i suoi frutti arriva stavolta dal Regno Unito, ma questo non è bastato ad accendere le Borse europee che chiudono fiacche la seduta, con la sola eccezione di Londra, che guadagna oltre l'1%. Wall Street in rialzo dopo la pubblicazione di dati economici positivi.  
 ilsole
 """)
+
+### 22:17 20-12-2023
+
+
+### 09:02 20-12-2023
 
 st.markdown(r"""
 # 09:02 20-12-2023
