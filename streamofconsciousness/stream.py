@@ -7,7 +7,7 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
-###
+### 22:09 24-12-2023
 
 st.markdown(r'''
 # 22:09 24-12-2023
@@ -15,7 +15,7 @@ Egli si esprimeva in quel francese ricercato che usavano i nostri uomini non sol
 Lev Tolstoj, Guerra e pace
 ''')
 
-###
+### 22:09 24-12-2023
 
 
 ### 21:47 24-12-2023
