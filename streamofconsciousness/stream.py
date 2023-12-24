@@ -7,7 +7,7 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
-###
+### 21:47 24-12-2023
 
 st.markdown(r'''
 # 21:47 24-12-2023
@@ -24,7 +24,7 @@ V_f = V_ie^{r_{\log}t}
 $$
 ''')
 
-###
+### 21:47 24-12-2023
 
 
 ### 09:58 24-12-2023
