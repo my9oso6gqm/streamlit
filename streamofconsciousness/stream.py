@@ -7,6 +7,16 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
+###
+
+st.markdown(r'''
+# 08:30 26-12-2023
+Ascoltando: Charlyxcx - Love gang: https://youtube.com/watch?v=96Bo8n35LYw.  
+Carlo Rovelli, How Oriented Causation Is Rooted into Thermodynamics: https://philosophyofphysics.lse.ac.uk/articles/10.31389/pop.46#B31.
+''')
+
+###
+
 ### 22:09 24-12-2023
 
 st.markdown(r'''
