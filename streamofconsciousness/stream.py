@@ -11,7 +11,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 08:30 26-12-2023
-Ascoltando: Charlyxcx - Love gang: https://youtube.com/watch?v=96Bo8n35LYw.  
+Ascoltando: Charli XCX - Love gang: https://youtube.com/watch?v=96Bo8n35LYw.  
 Carlo Rovelli, How Oriented Causation Is Rooted into Thermodynamics: https://philosophyofphysics.lse.ac.uk/articles/10.31389/pop.46#B31.
 ''')
 
