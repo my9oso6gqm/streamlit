@@ -7,6 +7,10 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
+st.markdown(r'''
+# 20:41 26-12-2023
+Rob Joyce @ twitter (Director of Cybersecurity at NSA. Follow NSA cyber for unique, actionable, and timely cybersecurity guidance. https://twitter.com/NSA_CSDirector/status/1738281822088241546).  
+Holiday gift for you. Ghidra 11.0 released! New BSim feature can find structurally similar functions in (potentially large) collections of binaries or object files. Initial support for Rust compiled binaries. Golang improved. +more.
 ###
 
 st.markdown(r'''
