@@ -7,6 +7,8 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
+###
+
 st.markdown(r'''
 # 19:05 26-12-2023
 Nat Rothschild @ twitter (Interested in: public affairs, underdogs, farming, the countryside, and happily married to Loretta. Proud to be Executive Chair of Volex, but all views my own. https://twitter.com/NatRothschild1/status/1732944022174577017).  
