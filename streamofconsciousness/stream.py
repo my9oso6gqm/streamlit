@@ -7,6 +7,12 @@ Maurizio (rjhgshlc2x@gmail.com)
 Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
+st.markdown(r'''
+# 19:05 26-12-2023
+Nat Rothschild @ twitter (Interested in: public affairs, underdogs, farming, the countryside, and happily married to Loretta. Proud to be Executive Chair of Volex, but all views my own. https://twitter.com/NatRothschild1/status/1732944022174577017).  
+Oh to be like Switzerland , a small country with no debt, bucket loads of cash, competent leadership, and self imposed military neutrality baked into its constitution. It has not participated in a foreign war since 1815. #iraq #afghanistan #ukraine #usa #russia
+''')
+
 ### 08:30 26-12-2023
 
 st.markdown(r'''
