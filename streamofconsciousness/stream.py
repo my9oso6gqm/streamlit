@@ -19,7 +19,8 @@ La Borsa di Tokyo conclude le contrattazioni in sostenuto rialzo, con gli acquis
 st.markdown(r'''
 # 13:49 27-12-2023
 Seduta in rialzo per le Borse europee dopo il ponte natalizio e in una settimana con scambi ridotti per soli tre giorni di contrattazione prima della fine dell'anno.  
-La Borsa di Tokyo conclude le contrattazioni in sostenuto rialzo, con gli acquisti che si concentrano sulla tecnologia, in scia all’accelerazione degli indici azionari Usa.
+La Borsa di Tokyo conclude le contrattazioni in sostenuto rialzo, con gli acquisti che si concentrano sulla tecnologia, in scia all’accelerazione degli indici azionari Usa.  
+ilsole
 
 ''')
 
