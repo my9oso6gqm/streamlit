@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 12:52 27-12-2023
+Vabbè anche se non mi serve sono diventato bravo con le github actions.
+
+''')
+
+
+st.markdown(r'''
 # Test anche da telefono
 Questo e un test da telefono
 
