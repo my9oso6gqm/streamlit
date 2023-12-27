@@ -19,4 +19,4 @@ jobs:
         path: ${{ env.DEVOPS_DIR }}
 
     - name: Hello World
-      run: ls devops
+      run: ls devops/streamofconsciousness
