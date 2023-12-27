@@ -20,3 +20,7 @@ jobs:
 
     - name: Hello World
       run: python devops/streamofconsciousness/add.py
+    - name: Hello World1
+      run: git add *
+    - name: Hello World1
+      run: git push
