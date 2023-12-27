@@ -23,6 +23,8 @@ jobs:
     - name: 2
       run: python streamlit/streamofconsciousness/add.py
     - name: 3
+      env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         cd streamlit
         git config --local user.email "rjhgshlc2x@gmail.com"
