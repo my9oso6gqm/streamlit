@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# Test anche da telefono
+Questo e un test da telefono
+
+''')
+
+
+st.markdown(r'''
 # Test
 Questo e un test3
 
