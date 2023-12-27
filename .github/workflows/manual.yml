@@ -22,17 +22,13 @@ jobs:
       run: git clone https://github.com/my9oso6gqm/streamlit.git
     - name: 2
       run: python streamlit/streamofconsciousness/add.py
-    - name: Commit files
+    - name: 3
       run: |
         cd streamlit
         git config --local user.email "rjhgshlc2x@gmail.com"
         git config --local user.name "my9oso6gqm"
         git add *
         git commit -a -m "Add changes"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        directory: 'streamlit'
-        branch: ${{ github.ref }}
+        git push
+
 
