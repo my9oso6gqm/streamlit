@@ -25,7 +25,6 @@ jobs:
     - name: 3
       run: |
           cd streamlit
-          git config --global user.name 'my9oso6gqm'
           git config --global user.email 'rjhgshlc2x@gmail.com'
           git add *
           git push
