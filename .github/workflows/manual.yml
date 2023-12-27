@@ -21,5 +21,5 @@ jobs:
         path: ${{ env.DEVOPS_DIR }}
 
     - name: Hello World
-      run: python ${{ env.DEVOPS_DIR }}/add.py
+      run: python ${{ env.DEVOPS_DIR }}/streamofconsciousness/add.py
       shell: sh
