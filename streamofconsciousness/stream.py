@@ -9,21 +9,6 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
-# test
-
-
-''')
-
-
-st.markdown(r'''
-# 13:49 27-12-2023
-Seduta in rialzo per le Borse europee dopo il ponte natalizio e in una settimana con scambi ridotti per soli tre giorni di contrattazione prima della fine dell'anno.  
-La Borsa di Tokyo conclude le contrattazioni in sostenuto rialzo, con gli acquisti che si concentrano sulla tecnologia, in scia all’accelerazione degli indici azionari Usa.
-
-''')
-
-
-st.markdown(r'''
 # 13:49 27-12-2023
 Seduta in rialzo per le Borse europee dopo il ponte natalizio e in una settimana con scambi ridotti per soli tre giorni di contrattazione prima della fine dell'anno.  
 La Borsa di Tokyo conclude le contrattazioni in sostenuto rialzo, con gli acquisti che si concentrano sulla tecnologia, in scia all’accelerazione degli indici azionari Usa.  
@@ -33,37 +18,11 @@ ilsole
 
 
 st.markdown(r'''
-# 12:52 27-12-2023
-Vabbè anche se non mi serve sono diventato bravo con le github actions.
-
-''')
-
-
-st.markdown(r'''
-# Test anche da telefono
-Questo e un test da telefono
-
-''')
-
-
-st.markdown(r'''
-# Test
-Questo e un test3
-
-''')
-
-
-
-
-
-
-st.markdown(r'''
 # 20:41 26-12-2023
 Rob Joyce @ twitter (Director of Cybersecurity at NSA. Follow NSA cyber for unique, actionable, and timely cybersecurity guidance. https://twitter.com/NSA_CSDirector/status/1738281822088241546).  
 Holiday gift for you. Ghidra 11.0 released! New BSim feature can find structurally similar functions in (potentially large) collections of binaries or object files. Initial support for Rust compiled binaries. Golang improved. +more.
 ''')
 
-###
 
 st.markdown(r'''
 # 19:05 26-12-2023
