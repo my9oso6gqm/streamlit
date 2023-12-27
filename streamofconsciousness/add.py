@@ -1,4 +1,4 @@
-f = open("devops/streamofconsciousness/input.md", "r")
+f = open("devops/streamofconsciousness/input.txt", "r")
 testo = f.read()
 f.close()
 testo1 = "\nst.markdown{r'''\n" + testo + "\n''')\n\n"
