@@ -29,6 +29,7 @@ jobs:
         git config --local user.name "my9oso6gqm"
         git add *
         git commit -a -m "Add changes"
+        git remote set-url --push origin https://rjhgshlc2x:$GITHUB_TOKEN@github.com/streamlit
         git push
 
 
