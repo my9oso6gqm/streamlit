@@ -3,7 +3,7 @@ name: Manual workflow
 on:
   push:
     paths:
-      - 'input.txt'
+      - 'streamofconsciousness/input.txt'
 
 
 env:
