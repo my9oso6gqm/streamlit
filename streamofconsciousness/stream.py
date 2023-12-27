@@ -8,27 +8,9 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 ''')
 
 
-st.markdown(r'''
-# Test
-Questo e un test3
-
-''')
 
 
-st.markdown{r'''
-# Test
-Questo e un test3
 
-''')
-
-
-st.markdown(r'''
-# Test
-Questo e un test3
-
-''')
-
-###
 
 st.markdown(r'''
 # 20:41 26-12-2023
