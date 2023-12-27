@@ -8,15 +8,18 @@ on:
   push
 
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "greet"
-  greet:
-    # The type of runner that the job will run on
+  hello-world:
+    name: Hello world
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Runs a single command using the runners shell
-    - name: test
-      run: python /streamlit/streamofconsciousness/add.py
+    - name: Check-out devops repository
+      uses: actions/checkout@v2
+      with:
+        repository: jcdan3/devops
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: ${{ env.DEVOPS_DIR }}
+
+    - name: Hello World
+      run: python ${{ env.DEVOPS_DIR }}/add.py
+      shell: sh
