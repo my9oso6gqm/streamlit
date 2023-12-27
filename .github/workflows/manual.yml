@@ -16,7 +16,7 @@ jobs:
     - name: Check-out devops repository
       uses: actions/checkout@v2
       with:
-        repository: jcdan3/devops
+        repository: my9oso6gqm/streamlit
         token: ${{ secrets.GITHUB_TOKEN }}
         path: ${{ env.DEVOPS_DIR }}
 
