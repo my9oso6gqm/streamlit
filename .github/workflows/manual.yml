@@ -14,4 +14,3 @@ jobs:
     steps:
     - name: Hello World
       run: ls
-      shell: sh
