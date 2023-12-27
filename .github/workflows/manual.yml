@@ -18,9 +18,11 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         path: ${{ env.DEVOPS_DIR }}
 
-    - name: Hello World
-      run: python devops/streamofconsciousness/add.py
-    - name: Commit report
+    - name: 1
+      run: git clone https://github.com/my9oso6gqm/streamlit.git
+    - name: 2
+      run: python streamlit/streamofconsciousness/add.py
+    - name: 3
       run: |
           git config --global user.name 'Your Name'
           git config --global user.email 'your-username@users.noreply.github.com'
