@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 13:49 27-12-2023
+Seduta in rialzo per le Borse europee dopo il ponte natalizio e in una settimana con scambi ridotti per soli tre giorni di contrattazione prima della fine dell'anno.  
+La Borsa di Tokyo conclude le contrattazioni in sostenuto rialzo, con gli acquisti che si concentrano sulla tecnologia, in scia all’accelerazione degli indici azionari Usa.
+
+''')
+
+
+st.markdown(r'''
 # 12:52 27-12-2023
 Vabbè anche se non mi serve sono diventato bravo con le github actions.
 
