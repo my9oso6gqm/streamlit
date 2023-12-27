@@ -1,7 +1,10 @@
 name: Manual workflow
 
 on:
-  push
+  push:
+    paths:
+      - 'input.txt'
+
 
 env:
   DEVOPS_DIR: devops
