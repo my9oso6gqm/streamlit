@@ -23,5 +23,5 @@ jobs:
         path: ${{ env.DEVOPS_DIR }}
 
     - name: Hello World
-      run: ls
+      run: ls streamofconsciousness/
       shell: sh
