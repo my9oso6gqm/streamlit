@@ -9,6 +9,16 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 11:49 28-12-2023
+L'Nsa ha un repository github dove mantiene dei progetti, tra i repo vi è quello di Richard Darling ricercatore per l'Agenzia esperto in teoria della probabilità.  
+Qualche notte scorsa sono andato a rivedere il suo lavoro, FRACTALRABBIT, ed era scritto tutto in java. Omg, sapevo che l'Nsa usa principalmente il java ma io questo lavoro me lo ricodavo in Wolfram language!  
+Vado a vedere la storia del repo e in effetti vedo che l'hanno aggiornato ma i vecchi file di Mathematica sono ancora disponibili e... pure quelli di una versione in python!  
+La cosa fighissima è che nel codice sorgente si usa pandas, pure l'Nsa usa pandas per i suoi lavori!
+
+''')
+
+
+st.markdown(r'''
 # 07:01 28-12-2023
 L’incredibile statistica di Wall Street: da 95 anni scende il lunedì e guadagna martedì e mercoledì  
 Andando a fondo sui dati scopriamo che un giorno non vale l’altro in Borsa. I mercati vivono di emozioni e di stagionalità. Se ad esempio prendiamo le chiusure di Wall Street negli ultimi 95 anni, scopriamo che il lunedì è il giorno più debole dei cinque in cui il listino è aperto.  
