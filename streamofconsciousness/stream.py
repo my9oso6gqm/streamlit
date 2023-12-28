@@ -10,7 +10,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 06:46 28-12-2023
-Ascoltando: > Sia - 1+1 (Banx \& Ranx Remix) https://youtube.com/watch?v=LZ0axeyu1Ag
+Ascoltando: > Sia - 1+1 (Banx \& Ranx Remix) https://youtube.com/watch?v=LZ0axeyu1Ag  
 Vale sempre questa regola?
 $$3^2 + 4^2 = 5^2$$
 Per scoprirlo dal 1985 al 1992 Wiles ha lavorato ininterrottamente solo a questo problema chiuso in soffitta e trovando la risposta; un no che sa di leggenda.  
