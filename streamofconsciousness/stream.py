@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image('https://my9oso6gqm.github.io/mrz.jpg', width=100)
+st.image('mrz.jpg', width=100)
 
 st.markdown(r'''
 Maurizio (mrzgrd557@gmail.com)  
