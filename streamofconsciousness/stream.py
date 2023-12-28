@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 17:17 28-12-2023
+Ascoltando a palla: https://youtube.com/watch?v=ttl1s7IF1wo  
+I moscerini stanno soddisfacendo tutti i criteri del gioco come lo intendiamo in altri animali. bioRxiv (Seeking voluntary passive movement in flies is play-like behavior) X Sciencemag (https://www.science.org/content/article/fruit-flies-may-enjoy-taking-carousels-spin).
+
+''')
+
+
+st.markdown(r'''
 # 14:28 28-12-2023
 L'ultimo indizio per la soluzione di Kryptos, il codice più segreto del mondo http://www.rainews.it/dl/rainews/media/ultimo-indizio-per-la-soluzione-di-Kryptos-il-codice-piu-segreto-del-mondo-060a81df-2e93-4238-b774-f2fd58e7ae41.html
 
