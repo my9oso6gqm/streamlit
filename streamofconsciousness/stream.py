@@ -4,7 +4,7 @@ st.image('https://my9oso6gqm.github.io/mrz.jpg', width=100)
 
 st.markdown(r'''
 Maurizio (mrzgrd557@gmail.com)  
-Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, [liste](https://my9oso6gqm.github.io/liste/).
+Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazioni, errori nei libri di matematica, liste.
 ''')
 
 
