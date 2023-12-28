@@ -9,6 +9,19 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 06:46 28-12-2023
+Ascoltando: > Sia - 1+1 (Banx \& Ranx Remix) https://youtube.com/watch?v=LZ0axeyu1Ag
+Vale sempre questa regola?
+$$3^2 + 4^2 = 5^2$$
+Per scoprirlo dal 1985 al 1992 Wiles ha lavorato ininterrottamente solo a questo problema chiuso in soffitta e trovando la risposta; un no che sa di leggenda.  
+  
+Alcuni problemi sembrano semplici. Non vi è motivo per cui non debbano essere facili, eppure si rivelano estremamente intricati.
+Andrew Wiles
+
+''')
+
+
+st.markdown(r'''
 # 13:49 27-12-2023
 Seduta in rialzo per le Borse europee dopo il ponte natalizio e in una settimana con scambi ridotti per soli tre giorni di contrattazione prima della fine dell'anno.  
 La Borsa di Tokyo conclude le contrattazioni in sostenuto rialzo, con gli acquisti che si concentrano sulla tecnologia, in scia all’accelerazione degli indici azionari Usa.  
