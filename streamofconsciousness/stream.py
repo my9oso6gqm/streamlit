@@ -10,7 +10,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 11:49 28-12-2023
-L'Nsa ha github dove mantiene dei progetti, tra i repository vi è quello di Richard Darling ricercatore per l'Agenzia esperto in teoria della probabilità. Qualche notte scorsa sono andato a rivedere il suo lavoro, FRACTALRABBIT, ed era scritto tutto in java. Omg, sapevo che l'Nsa usa principalmente il java ma io questo lavoro me lo ricodavo in Wolfram language, vado a vedere la storia del repo e in effetti scopro che l'hanno aggiornato ma i vecchi file di Mathematica sono ancora disponibili e... pure quelli di una versione in python! La cosa fighissima è che nel codice sorgente si usa pandas, pure l'Nsa usa pandas per i suoi lavori!
+L'Nsa ha github dove mantiene dei progetti, tra i repository vi è quello di Richard Darling ricercatore per l'Agenzia esperto in teoria della probabilità. Qualche notte scorsa sono andato a rivedere il suo lavoro, FRACTALRABBIT, ed era scritto tutto in java. Omg, sapevo che l'Nsa usa principalmente il java ma io questo lavoro me lo ricodavo in Wolfram language, vado a vedere la storia del repo e in effetti scopro che l'hanno aggiornato ma i vecchi file di Mathematica sono ancora disponibili e... la cosa fighissima è che esiste anche una versione in python nel cui codice sorgente si usa pandas, pure l'Nsa usa pandas per i suoi lavori!
 
 ''')
 
