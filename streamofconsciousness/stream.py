@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 14:28 28-12-2023
+L'ultimo indizio per la soluzione di Kryptos, il codice più segreto del mondo http://www.rainews.it/dl/rainews/media/ultimo-indizio-per-la-soluzione-di-Kryptos-il-codice-piu-segreto-del-mondo-060a81df-2e93-4238-b774-f2fd58e7ae41.html
+
+''')
+
+
+st.markdown(r'''
 # 11:49 28-12-2023
 L'Nsa ha un github dove mantiene dei progetti, tra i repository vi è quello di Richard Darling ricercatore per l'Agenzia esperto in teoria della probabilità. Qualche notte scorsa sono andato a rivedere il suo lavoro, FRACTALRABBIT, ed era scritto tutto in java. Omg, sapevo che l'Nsa usa principalmente il java ma io questo lavoro me lo ricodavo in Wolfram language, vado a vedere la storia del repo e in effetti scopro che l'hanno aggiornato ma i vecchi file di Mathematica sono ancora disponibili e... la cosa fighissima è che esiste anche una versione in python nel cui codice sorgente si usa pandas, pure l'Nsa usa pandas per i suoi lavori!
 
