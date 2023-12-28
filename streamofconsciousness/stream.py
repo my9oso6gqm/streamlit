@@ -11,7 +11,8 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 st.markdown(r'''
 # 17:17 28-12-2023
 Ascoltando a palla: https://youtube.com/watch?v=ttl1s7IF1wo  
-I moscerini stanno soddisfacendo tutti i criteri del gioco come lo intendiamo in altri animali. bioRxiv (Seeking voluntary passive movement in flies is play-like behavior) X Sciencemag (https://www.science.org/content/article/fruit-flies-may-enjoy-taking-carousels-spin).
+  
+I moscerini stanno soddisfacendo tutti i criteri del gioco come lo intendiamo in altri animali. bioRxiv (Seeking voluntary passive movement in flies is play-like behavior) X Sciencemag (https://doi.org/10.1126/science.adk3310).
 
 ''')
 
