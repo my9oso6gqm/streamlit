@@ -9,6 +9,15 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 07:01 28-12-2023
+L’incredibile statistica di Wall Street: da 95 anni scende il lunedì e guadagna martedì e mercoledì  
+Andando a fondo sui dati scopriamo che un giorno non vale l’altro in Borsa. I mercati vivono di emozioni e di stagionalità. Se ad esempio prendiamo le chiusure di Wall Street negli ultimi 95 anni, scopriamo che il lunedì è il giorno più debole dei cinque in cui il listino è aperto.  
+ilsole
+
+''')
+
+
+st.markdown(r'''
 # 06:46 28-12-2023
 Ascoltando: Sia - 1+1 (Banx & Ranx Remix) https://youtube.com/watch?v=LZ0axeyu1Ag  
   
