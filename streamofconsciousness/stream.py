@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 17:42 28-12-2023
+Negare a queste creature una vita mentale di questa complessità in favore, ad esempio, di una teoria stimolo-risposta del loro comportamento, mentre affermare una vita mentale complessa per gli esseri umani è, ammettiamolo, una possibilità teorica.  
+Tom Regan, The case of animal rights, University of California press, 1983
+
+''')
+
+
+st.markdown(r'''
 # 17:17 28-12-2023
 Ascoltando a palla: https://youtube.com/watch?v=ttl1s7IF1wo  
   
