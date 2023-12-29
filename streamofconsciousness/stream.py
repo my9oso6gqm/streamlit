@@ -10,7 +10,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 14:23 29-12-2023
-![](https://my9oso6gqm.github.io/doc/141729122023.gif)
+![](https://my9oso6gqm.github.io/doc/141729122023.gif)  
 Anders De Flon, 3x3, 2005, il font più piccolo.
 
 ''')
