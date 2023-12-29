@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 14:23 29-12-2023
+![](https://my9oso6gqm.github.io/doc/141729122023.gif)
+Anders De Flon, 3x3, 2005, il font più piccolo.
+
+''')
+
+
+st.markdown(r'''
 # 13:51 29-12-2023
 Con i futures di Wall Street in leggero rialzo (+0,09% quello sul Dow Jones e +0,13% quello sull’S&P500), gli indici europei si confermano positivi, anche il Ftse Mib di Piazza Affari, in rialzo dello 0,40% a 30.452 punti grazie alla buona intonazione di Ferrari, Recordati, Erg e Unicredit. Lo spread Btp/Bund risale leggermente a 164,9 punti base. A tenere banco è la notizia che i leader del G7 discuteranno una nuova strategia legale che consentirà il sequestro di 300 miliardi di dollari di asset russi congelati, quando si incontreranno a febbraio, secondo quanto riferito due fonti a conoscenza dei piani e un funzionario britannico a Reuters.  
 mf
