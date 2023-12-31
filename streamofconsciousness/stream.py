@@ -9,6 +9,12 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 08:17 31-12-2023
+''')
+st.image('https://my9oso6gqm.github.io/doc/081531122023.jpg')
+
+
+st.markdown(r'''
 # 07:41 31-12-2023
 Ascoltando(1) https://youtube.com/watch?v=dh8YwWlSrNY  
   
