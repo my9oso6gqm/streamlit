@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 12:03 31-12-2023
+Se da una piattaforma di trading nel mercato valutario, il forex, chessò etoro, ibkr, un conto deposito o Ubs (ha le api dirette, nel senso che a New York ha una piazza di scambio propria un po' come giocare api Euronext), insomma piattaforme tradizionali, comprate 100 dollari in euro ad esempio o, viceversa quei dollari o euro sono presso la Fed o la Banca centrale europea? Sapevetalo.
+
+''')
+
+
+st.markdown(r'''
 # 11:08 31-12-2023
 Ascoltando https://youtube.com/watch?v=dh8YwWlSrNY  
   
