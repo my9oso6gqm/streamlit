@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 09:53 31-12-2023
+Sul SA le ricerche principali del 2023, ne ha scelte 8. E una quale è cari miei, quale è? La prima terapia con Casgevy a modifica del dna umano con crispr approvata cosa? Un mese fa? Yeee! 
+
+''')
+
+
+st.markdown(r'''
 # 08:17 31-12-2023
 ''')
 st.image('https://my9oso6gqm.github.io/doc/081531122023.jpg')
