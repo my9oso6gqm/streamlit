@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 07:35 31-12-2023
+NKVD https://it.wikipedia.org/wiki/Commissariato_del_popolo_per_gli_affari_interni
+
+''')
+
+
+st.markdown(r'''
 # 20:13 29-12-2023
 Louis the child - Big love https://youtube.com/watch?v=cEN6sUMuNck
 
