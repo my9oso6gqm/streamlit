@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 11:01 31-12-2023
+Ah, ma davvero? Doveva arrivare lui che se la gioca a Luga a dirci che Poste ha un minimo di knowhow in materia finanziaria. Grazie Nevio o come diamine ti chiami... https://www.tiktok.com/@_twitchplay_/video/7304449302523317537
+
+''')
+
+
+st.markdown(r'''
 # 09:53 31-12-2023
 Sul SA le ricerche principali del 2023, ne ha scelte 8. E una quale è cari miei, quale è? La prima terapia con Casgevy a modifica del dna umano con crispr approvata cosa? Un mese fa? Yeee! 
 
