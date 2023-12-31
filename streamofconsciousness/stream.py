@@ -9,6 +9,15 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 07:41 31-12-2023
+Ascoltando(1) https://youtube.com/watch?v=dh8YwWlSrNY  
+  
+Operation Triangulation: The last (hardware) mystery (il titolo è tutto un programma(1) ndr) https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/
+
+''')
+
+
+st.markdown(r'''
 # 07:35 31-12-2023
 NKVD https://it.wikipedia.org/wiki/Commissariato_del_popolo_per_gli_affari_interni
 
