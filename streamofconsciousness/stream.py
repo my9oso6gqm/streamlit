@@ -12,7 +12,6 @@ st.markdown(r'''
 # 10:42 01-01-2024
 Nella prima seduta del nuovo anno le Borse europee sono in deciso rialzo, riprendendo la corsa del 2023 che ha visto l’indice Stoxx600 salire di quasi il 13% e Piazza Affari guadagnare complessivamente il 28%.  
 ilsole
-
 ''')
 
 
