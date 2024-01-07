@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 08:08 07-01-2024
+Night Skinny, Ghali, Rkomi e bnkr44 - Diavolo https://youtube.com/watch?v=0VENunWYf60
+
+''')
+
+
+st.markdown(r'''
 # 08:07 07-01-2024
 Non hai matrici quadrate e vuoi usare Gauss? Non penso proprioh...!
 
