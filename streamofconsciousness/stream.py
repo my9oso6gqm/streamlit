@@ -9,7 +9,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
-# 07:01 07-01-2024
+# 07:23 07-01-2024
 ## Guerre Israël-Hamas : ce qu’il faut retenir de la journée du 5 janvier
 - Israël dévoile un plan pour Gaza
 
@@ -80,6 +80,8 @@ Les Etats-Unis ont imposé début décembre des sanctions à l’encontre de diz
 - A Belgorod, en Russie, face au risque de bombardements ukrainiens, les autorités ont annulé la célébration nocturne du Noël orthodoxe, après avoir déjà prolongé les vacances scolaires jusqu’au 19 janvier et proposé aux habitants de cette ville de 300 000 âmes d’évacuer.
 
 - Des femmes de Russes mobilisés pour combattre en Ukraine en septembre 2022 sur ordre de Vladimir Poutine ont mené une action symbolique de protestation, samedi, au pied des murs du Kremlin samedi en déposant des fleurs sur la flamme du soldat inconnu. La police n’est pas intervenue lors de l’action de ces femmes de mobilisés samedi, bien que tout début de contestation soit d’ordinaire sévèrement réprimé en Russie, signe que la question est délicate pour le Kremlin.
+
+lemonde
 
 ''')
 
