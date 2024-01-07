@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 08:50 07-01-2024
+Nikola Greku - Non hanno una voce per niente soporifera https://www.instagram.com/reel/CzOYXocq2mI/
+
+''')
+
+
+st.markdown(r'''
 # 08:08 07-01-2024
 Night Skinny, Ghali, Rkomi e bnkr44 - Diavolo https://youtube.com/watch?v=0VENunWYf60
 
