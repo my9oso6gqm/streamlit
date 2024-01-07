@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 09:45 07-01-2024
+Evangelion: una Lancia di Longino a grandezza naturale è apparsa in Giappone https://www.justnerd.it/evangelion-una-lancia-di-longino-ad-altezza-naturale-e-apparsa-in-giappone/
+
+''')
+
+
+st.markdown(r'''
 # 08:50 07-01-2024
 Nikola Greku - Non hanno una voce per niente soporifera https://www.instagram.com/reel/CzOYXocq2mI/
 
