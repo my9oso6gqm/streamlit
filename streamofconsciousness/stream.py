@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 11:45 07-01-2024
+https://my9oso6gqm.github.io/doc/114507012924.jpg
+
+''')
+st.image('https://my9oso6gqm.github.io/doc/114507012924.jpg')
+
+
+st.markdown(r'''
 # 09:45 07-01-2024
 Evangelion: una Lancia di Longino a grandezza naturale è apparsa in Giappone https://www.justnerd.it/evangelion-una-lancia-di-longino-ad-altezza-naturale-e-apparsa-in-giappone/
 
