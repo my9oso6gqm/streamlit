@@ -9,13 +9,6 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
-# 10:22 04-01-2024
-!(https://my9oso6gqm.github.io/doc/101504012024.jpg)
-
-''')
-
-
-st.markdown(r'''
 # 10:42 01-01-2024
 Nella prima seduta del nuovo anno le Borse europee sono in deciso rialzo, riprendendo la corsa del 2023 che ha visto l’indice Stoxx600 salire di quasi il 13% e Piazza Affari guadagnare complessivamente il 28%.  
 ilsole
