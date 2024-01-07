@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 15:31 07-01-2024
+GEMITAIZ - Keanu Reeves https://www.youtube.com/watch?v=lXZDLbNNXzE
+
+''')
+
+
+st.markdown(r'''
 # 11:45 07-01-2024
 https://my9oso6gqm.github.io/doc/114507012924.jpg
 
