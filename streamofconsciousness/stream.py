@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 07:01 07-01-2024
+Ritual - Love me back https://youtube.com/watch?v=-rnJXfulbBc
+
+''')
+
+
+st.markdown(r'''
 # 10:43 06-01-2024
 La scomoda verità è che non siamo più intelligenti degli altri come pensiamo. Critichiamo le qualità di Stati Uniti e Cina mancando il punto di queste nazioni focalizzato sui volumi. Le occasioni per batterci quantitivamente con questi imperi le lasciamo per strada crogiolandoci in una parossistica qualità che manco il Credit Suisse. Non abbiamo i terreni, quelli che contano nell'economia e ci azzoppiamo con la carne artificiale. Misteri elitari di noi altri.
 
