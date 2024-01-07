@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 07:41 07-01-2024
+Frankie HI-NRG MC - Quelli che benpensano https://youtube.com/watch?v=kqBR74WqMFU  
+Nasi bianchi come Fruit of the Loom - Che diventano più rossi d'un livello di Doom
+
+''')
+
+
+st.markdown(r'''
 # 07:23 07-01-2024
 ## Guerre Israël-Hamas : ce qu’il faut retenir de la journée du 5 janvier
 - Israël dévoile un plan pour Gaza
