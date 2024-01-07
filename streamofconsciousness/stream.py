@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 10:43 06-01-2024
+La scomoda verità è che non siamo più intelligenti degli altri come pensiamo. Critichiamo le qualità di Stati Uniti e Cina mancando il punto di queste nazioni focalizzato sui volumi. Le occasioni per batterci quantitivamente con questi imperi le lasciamo per strada crogiolandoci in una parossistica qualità che manco il Credit Suisse. Non abbiamo i terreni, quelli che contano nell'economia e ci azzoppiamo con la carne artificiale. Misteri elitari di noi altri.
+
+''')
+
+
+st.markdown(r'''
 # 10:42 01-01-2024
 Nella prima seduta del nuovo anno le Borse europee sono in deciso rialzo, riprendendo la corsa del 2023 che ha visto l’indice Stoxx600 salire di quasi il 13% e Piazza Affari guadagnare complessivamente il 28%.  
 ilsole
