@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 16:37 07-01-2024
+Scandalo Telecom-Sismi https://it.wikipedia.org/wiki/Scandalo_Telecom-Sismi
+
+''')
+
+
+st.markdown(r'''
 # 15:31 07-01-2024
 GEMITAIZ - Keanu Reeves https://www.youtube.com/watch?v=lXZDLbNNXzE
 
