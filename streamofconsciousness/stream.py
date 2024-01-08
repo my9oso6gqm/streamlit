@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 12:42 08-01-2024
+https://www.facebook.com/photo/?fbid=835049178422322
+
+''')
+
+
+st.markdown(r'''
 # 12:26 08-01-2024
 Il machine learning ci sta mettendo sul tavolo quello che conta, le emozioni, il tanto chiaccherato tra gli hr quoziente emotivo, l'abilità cognitiva o meno di provare empatia. Una rete neurale cosciente proverà emozioni? Risolve problemi, li capisce, ma orchestrerà provando gioia? Perchè si o no per una rete di neuroni?
 
