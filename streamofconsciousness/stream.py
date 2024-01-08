@@ -9,6 +9,12 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 10:58 08-01-2024
+Llm in giro https://my9oso6gqm.github.io/doc/105308012024.jpg
+''')
+st.image('https://my9oso6gqm.github.io/doc/105308012024.jpg')
+
+st.markdown(r'''
 # 10:24 08-01-2024
 Ascoltando: Rose Villain - Io, me ed altri guai https://youtube.com/watch?v=wia24KWNT9M  
   
