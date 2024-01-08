@@ -9,6 +9,16 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 17:16 08-01-2024
+Le Borse europee, dopo aver concluso un 2023 da incorniciare (+19% la media delle piazze continentali e +28% Milano), recuperano i cali dell'avvio e viaggiano in territorio positivo dopo l'apertura di Wall Street.  
+
+Gli indici di Wall Street sono contrastati, dopo la prima settimana in calo per gli indici delle ultime dieci. L'attenzione è rivolta soprattutto ai dati sull'inflazione, con i prezzi al consumo in programma giovedì 11 gennaio e quelli alla produzione attesi venerdì 12 gennaio, che serviranno alla Federal Reserve per valutare per quanto portare avanti una politica restrittiva, dopo l'ultimo rapporto sull'occupazione migliore delle attese.  
+ilsole
+
+''')
+
+
+st.markdown(r'''
 # 16:40 08-01-2024
 Grafici aapl enooormiii...! https://www.youtube.com/watch?v=WO9ewCO7TYI
 ''')
