@@ -9,6 +9,19 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 10:24 08-01-2024
+Ascoltando: Rose Villain - Io, me ed altri guai https://youtube.com/watch?v=wia24KWNT9M  
+  
+La Settimana Cibernetica del 7 gennaio 2024:  
+- rilasciati aggiornamenti di sicurezza per prodotti Ivanti e Google,
+- rilevato sfruttamento in rete della CVE-2023-7024 in Google (una rima dalla amy https://twitter.com/amyexp/status/1737590346023125348 ndr).
+
+https://www.csirt.gov.it/contenuti/la-settimana-cibernetica-del-7-gennaio-2024
+
+''')
+
+
+st.markdown(r'''
 # 09:55 08-01-2024
 ***L'ultimo bollettino continua a evidenziare miglioramenti, tranquilli!***
 
