@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 09:42 08-01-2024
+Le Borse europee nella prima seduta della settimana, dopo aver concluso un 2023 da incorniciare (+19% la media delle piazze continentali e +28% Milano), si muovono all’insegna della debolezza.  
+ilsole
+
+''')
+
+
+st.markdown(r'''
 # 16:37 07-01-2024
 Scandalo Telecom-Sismi https://it.wikipedia.org/wiki/Scandalo_Telecom-Sismi
 
