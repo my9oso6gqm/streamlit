@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 12:57 08-01-2024
+La cosa buffa dei luoghi comuni, è che non sono per nulla comuni. Non trovate?
+
+''')
+
+
+st.markdown(r'''
 # 12:43 08-01-2024
 https://www.youtube.com/watch?v=QQ_3S-IQm38
 
