@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 12:43 08-01-2024
+https://www.youtube.com/watch?v=QQ_3S-IQm38
+
+''')
+
+
+st.markdown(r'''
 # 12:42 08-01-2024
 https://www.facebook.com/photo/?fbid=835049178422322
 
