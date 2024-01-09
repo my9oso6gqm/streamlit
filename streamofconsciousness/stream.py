@@ -10,7 +10,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 17:19 09-01-2024
-Il csirt Italia segnala che per Apple CVE-2023-41990 di Leonid Bezvershenko https://twitter.com/bzvr_ & co e' sfruttata attivamente. Codice arbitrario eseguito giocherellando con i font (cavoli sta roba dei font e' un trend da un botto di anni) Eee no, NON HO LETTO, se CVE-2023-41990 riguarda Operation triangulation, ma non credo.
+Il csirt Italia segnala che per Apple CVE-2023-41990 di Leonid Bezvershenko [https://twitter.com/bzvr_](https://twitter.com/bzvr_) & co e' sfruttata attivamente. Codice arbitrario eseguito giocherellando con i font (cavoli sta roba dei font e' un trend da un botto di anni) Eee no, NON HO LETTO, se CVE-2023-41990 riguarda Operation triangulation, ma non credo.
 ''')
 
 
