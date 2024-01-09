@@ -9,6 +9,12 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 15:16 09-01-2024
+''')
+st.image('https://my9oso6gqm.github.io/doc/151309012024.jpg')
+
+
+st.markdown(r'''
 # 15:00 09-01-2024
 Nvidia da record: valore in borsa triplicato in un anno. Ecco le previsioni per il 2024 https://video.milanofinanza.it/video/nvidia-da-record-valore-in-borsa-triplicato-in-un-anno-ecco-le-previsioni-per-il-2024-oZf4L21y48dI
 ''')
