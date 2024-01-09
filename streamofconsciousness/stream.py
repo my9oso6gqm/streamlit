@@ -9,6 +9,34 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 16:23 09-01-2024
+Per scrivere roba dummy uso Gemini di Google DeepMind ma sto passando a llama 2 di Facebook research.
+
+Per il plot di due medie llama mi ha suggerito la best practice:
+
+```python
+plt.plot(df['x1'], df['x2'])
+```
+
+Ottenendo:
+''')
+st.image('https://my9oso6gqm.github.io/doc/162109012024.png')
+st.markdown(r'''
+Ehm, ma che cazz.
+
+Migliorando il prompt (al contrario di Gemini funziona solo in inglese ma a dir la verita usavo anche Gemini cosi')
+
+```python
+plt.plot(df[['x1', 'x2']])
+```
+''')
+st.image('https://my9oso6gqm.github.io/doc/162209012024.png')
+st.markdown(r'''
+Bene 🦙
+''')
+
+
+st.markdown(r'''
 # 15:24 09-01-2024
 La situazione tecnica di Banca Mediolanum rimane costruttiva. Il titolo, dopo una breve pausa di consolidamento al di sopra del sostegno grafico posto in area 8,48-8,45 euro, ha infatti compiuto un nuovo balzo in avanti ed è salito oltre quota 8,80. La tendenza di breve termine rimane quindi positiva e viene confermata dalla posizione long dei principali indicatori direzionali.  
 mf
