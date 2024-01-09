@@ -9,6 +9,18 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 13:08 09-01-2024
+https://youtube.com/watch?v=aZxkVTwk3wU
+''')
+
+
+st.markdown(r'''
+# 07:17 09-01-2024
+Omg un ragazzo della Wolfram research si è assegnato la issue che avevo aperto su github per usare llama di Facebook research. Presto potremmo usare llama 2 con Wolfram Mathematica!... Yeee! https://github.com/WolframResearch/Chatbook/issues/436
+''')
+
+
+st.markdown(r'''
 # 17:16 08-01-2024
 Le Borse europee, dopo aver concluso un 2023 da incorniciare (+19% la media delle piazze continentali e +28% Milano), recuperano i cali dell'avvio e viaggiano in territorio positivo dopo l'apertura di Wall Street.  
 
