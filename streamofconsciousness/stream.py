@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 15:24 09-01-2024
+La situazione tecnica di Banca Mediolanum rimane costruttiva. Il titolo, dopo una breve pausa di consolidamento al di sopra del sostegno grafico posto in area 8,48-8,45 euro, ha infatti compiuto un nuovo balzo in avanti ed è salito oltre quota 8,80. La tendenza di breve termine rimane quindi positiva e viene confermata dalla posizione long dei principali indicatori direzionali.  
+mf
+''')
+
+
+st.markdown(r'''
 # 15:16 09-01-2024
 ''')
 st.image('https://my9oso6gqm.github.io/doc/151309012024.jpg')
