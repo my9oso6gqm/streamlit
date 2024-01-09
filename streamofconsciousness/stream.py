@@ -12,8 +12,7 @@ st.markdown(r'''
 # 17:47 09-01-2024
 Prova se ha ripreso a funzionare github actions, e' tutto il giorno che sto scrivendo codice a mano per aggiornare il feed https://twitter.com/githubstatus/status/1744727187620798774
 ''')
-st.image('https://my9oso6gqm.github.io/doc/174909012024.png
-')
+st.image('https://my9oso6gqm.github.io/doc/174909012024.png')
 
 
 st.markdown(r'''
