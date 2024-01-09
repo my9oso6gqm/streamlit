@@ -9,6 +9,12 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+#15:00 09-01-2024
+Nvidia da record: valore in borsa triplicato in un anno. Ecco le previsioni per il 2024 https://video.milanofinanza.it/video/nvidia-da-record-valore-in-borsa-triplicato-in-un-anno-ecco-le-previsioni-per-il-2024-oZf4L21y48dI
+''')
+
+
+st.markdown(r'''
 # 14:02 09-01-2024
 Banche e tecnologici rallentano il passo delle Borse europee che si muovono in negativo. Gli indici scelgono la cautela dopo i guadagni della vigilia e non seguono i rialzi decisi di Wall Street e Asia, dove Tokyo ha chiuso ai massimi da marzo 1990 trainata dai titoli high-tech. La prudenza arriva con le dichiarazioni di diversi membri delle banche centrali, che proseguono la serie di prese di posizione tendenti a ridimensionare le attese di tagli dei tassi. Questo mentre si aspetta l'inizio della stagione delle trimestrali americane con le grandi banche ai nastri di partenza da venerdì (Citigroup -0,72% , Jp Morgan, Bank Of America +0% e Wells Fargo saranno le prime).  
 ilsole
