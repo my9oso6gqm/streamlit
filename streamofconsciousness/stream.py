@@ -9,6 +9,12 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 17:19 09-01-2024
+Il csirt segnala che per Apple CVE-2023-41990 di Leonid Bezvershenko (https://twitter.com/bzvr_) & co e' sfruttata attivamente. Codice arbitrario eseguito giocherellando con i font (cavoli sta roba dei font e' un trend da un botto di anni) Eee no, NON HO LETTO, se CVE-2023-41990 riguarda Operation triangulation, ma non credo.
+''')
+
+
+st.markdown(r'''
 # 16:23 09-01-2024
 Per scrivere roba dummy uso Gemini di Google DeepMind ma sto passando a llama 2 di Facebook research.
 
