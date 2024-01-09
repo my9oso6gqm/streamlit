@@ -1,3 +1,4 @@
-# 14:02 09-01-2024
-Banche e tecnologici rallentano il passo delle Borse europee che si muovono in negativo. Gli indici scelgono la cautela dopo i guadagni della vigilia e non seguono i rialzi decisi di Wall Street e Asia, dove Tokyo ha chiuso ai massimi da marzo 1990 trainata dai titoli high-tech. La prudenza arriva con le dichiarazioni di diversi membri delle banche centrali, che proseguono la serie di prese di posizione tendenti a ridimensionare le attese di tagli dei tassi. Questo mentre si aspetta l'inizio della stagione delle trimestrali americane con le grandi banche ai nastri di partenza da venerdì (Citigroup -0,72% , Jp Morgan, Bank Of America +0% e Wells Fargo saranno le prime).  
-ilsole
+# 17:47 09-01-2024
+Prova se ha ripreso a funzionare github actions, e' tutto il giorno che sto scrivendo codice a mano per aggiornare il feed https://twitter.com/githubstatus/status/1744727187620798774
+
+
