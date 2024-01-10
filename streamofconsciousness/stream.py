@@ -10,7 +10,7 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 st.markdown(r'''
 # 20:41 09-01-2024
-DidYouKnow we contribute to the #OpenSource community on GitHub? Take a look at some of the projects that we've made available ➡️ https://github.com/gchq (https://twitter.com/GCHQ/status/1744762491438026899)
+Did you know we contribute to the open source community on GitHub? Take a look at some of the projects that we've made available ➡️ https://github.com/gchq (https://twitter.com/GCHQ/status/1744762491438026899)
 
 ''')
 
