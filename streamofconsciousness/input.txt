@@ -1,4 +1,20 @@
-# 16:58 10-01-2024
-Prosegue l'andamento guardingo delle Borse europee, che hanno cambiato più volte direzione, oscillando comunque sempre attorno alla parità, in attesa del dato sull’inflazione americana di dicembre, in calendario l'11 gennaio e cruciale in vista delle prossime decisioni di politica monetaria.  
-Oltreoceano, debole anche Wall Street, in una giornata in cui non sono in calendario dati in grado di orientare il mercato. L'attenzione è rivolta ai dati macro di giovedì 11 gennaio (inflazione) e alla stagione delle trimestrali che prenderà il via il giorno successivo.  
-ilsole
+# 17:57 10-01-2024
+Ascoltando https://youtube.com/watch?v=EaJV2irv7MU
+
+L'Hilpish propone come modo per decidere se aprire una posizione o meno:
+
+```python
+data['Position'] = np.where(data['SMA1'] > data['SMA2'], 1, -1)
+```
+
+Che in effetti e' un modo molto elegante al contrario del mio:
+
+```python
+doppia_media_mobile_df['segnali'][window_short:] = np.where(doppia_media_mobile_df['media mobile 1'][window_short:] > doppia_media_mobile_df['media mobile 2'][window_short:], 1.0, 0.0)
+```
+
+Dove dico di mettere uno zero se l'indicatore non cambia posizione. Ci sara' un motivo se tiene l'inidicatore aperto.
+
+Tutti e due usiamo np.where per comodita' che ci permette di operare scelte sui valori in basi a condizioni arbitrarie, mi ero scritto una roba con dei loop ma se Hilpish usa np.where mi attengo al testo per prevenire batoste (qualcouno ha detto fottuto code refactoring?).
+
+Mi faccio un caffe.
