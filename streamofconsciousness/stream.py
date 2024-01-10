@@ -9,6 +9,12 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 17:23 10-01-2024
+https://my9oso6gqm.github.io/doc/171510012024.png
+''')
+
+
+st.markdown(r'''
 # 16:58 10-01-2024
 Prosegue l'andamento guardingo delle Borse europee, che hanno cambiato più volte direzione, oscillando comunque sempre attorno alla parità, in attesa del dato sull’inflazione americana di dicembre, in calendario l'11 gennaio e cruciale in vista delle prossime decisioni di politica monetaria.  
 Oltreoceano, debole anche Wall Street, in una giornata in cui non sono in calendario dati in grado di orientare il mercato. L'attenzione è rivolta ai dati macro di giovedì 11 gennaio (inflazione) e alla stagione delle trimestrali che prenderà il via il giorno successivo.  
