@@ -9,6 +9,13 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 20:21 09-01-2024
+Sequestro Moro, “ha un nome il presunto uomo del Sismi che aiutò Br in via Fani” https://www.ilfattoquotidiano.it/2014/03/25/sequestro-moro-ha-un-nome-il-motociclista-del-sismi-che-aiuto-i-br-in-via-fani/925401/
+
+''')
+
+
+st.markdown(r'''
 # 18:48 09-01-2024
 Slow your roll, Wall Street ⚡ Barclays Head of Research Jeffrey Meli says investors are too optimistic about rate cuts, predicting the Fed will ease policy three times instead of six in 2024. https://twitter.com/moneymoverscnbc/status/1744772643717263751/
 
