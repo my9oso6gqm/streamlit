@@ -9,6 +9,14 @@ Logica matematica, teoria dei numeri, calcolo mentale, giganti sistemi di equazi
 
 
 st.markdown(r'''
+# 18:24 10-01-2024
+Solving the Cubic Monotone 1-in-3 SAT Problem in Polynomial Time acclama la soluzione P=NP.  
+*According to Beall's List, Global Journals Inc. is a predatory publisher.*
+
+''')
+
+
+st.markdown(r'''
 # 17:57 10-01-2024
 Ascoltando https://youtube.com/watch?v=EaJV2irv7MU
 
