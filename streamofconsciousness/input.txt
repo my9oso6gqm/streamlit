@@ -1,20 +1,3 @@
-# 17:57 10-01-2024
-Ascoltando https://youtube.com/watch?v=EaJV2irv7MU
-
-L'Hilpish propone come modo per decidere se aprire una posizione o meno:
-
-```python
-data['Position'] = np.where(data['SMA1'] > data['SMA2'], 1, -1)
-```
-
-Che in effetti e' un modo molto elegante al contrario del mio:
-
-```python
-doppia_media_mobile_df['segnali'][window_short:] = np.where(doppia_media_mobile_df['media mobile 1'][window_short:] > doppia_media_mobile_df['media mobile 2'][window_short:], 1.0, 0.0)
-```
-
-Dove dico di mettere uno zero se l'indicatore non cambia posizione. Ci sara' un motivo se tiene l'inidicatore aperto.
-
-Tutti e due usiamo np.where per comodita' che ci permette di operare scelte sui valori in basi a condizioni arbitrarie, mi ero scritto una roba con dei loop ma se Hilpish usa np.where mi attengo al testo per prevenire batoste (qualcouno ha detto fottuto code refactoring?).
-
-Mi faccio un caffe.
+# 18:24 10-01-2024
+Solving the Cubic Monotone 1-in-3 SAT Problem in Polynomial Time acclama la soluzione P=NP.  
+*According to Beall's List, Global Journals Inc. is a predatory publisher.*
