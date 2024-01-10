@@ -59,7 +59,7 @@ df = pandas.DataFrame(app.data, columns=['DateTime', 'Close'])
 ```
 
 $$
-\frac{P_1+P_2+P_n}{n}
+\frac{p_1+p_2+p_n}{n}
 $$
 
 ```python
