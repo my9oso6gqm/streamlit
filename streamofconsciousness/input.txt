@@ -57,10 +57,10 @@ df['media mobile 2'] = df['Close'].rolling(window = 20, min_periods = 1, center 
 ```
 
 ```python
-# Un modo furbo per il plot ^^
 df['Position'] = np.where(df['media mobile 1'] > df['media mobile 2'], 1, -1)
 ```
 
 ```python
+# Un modo furbo per il plot ^^
 ax = df.plot(secondary_y='Position', figsize=(30, 30))
 ```
